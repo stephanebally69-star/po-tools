@@ -1,0 +1,28 @@
+# Environment
+.env
+.env.local
+*.local
+
+# Azure DevOps tokens
+.azure/
+pat.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (si scripts)
+node_modules/
+package-lock.json
+
+# Python (si scripts)
+__pycache__/
+*.pyc
+.venv/
